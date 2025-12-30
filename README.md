@@ -22,9 +22,9 @@ td{
   text-align:center;
   touch-action:manipulation;
 }
-.w{ background:white; }
+.w{ background:red; }
 .b{ background:skyblue; }
-.sel{ outline:4px solid red; }
+.sel{ outline:4px solid black; }
 </style>
 </head>
 
